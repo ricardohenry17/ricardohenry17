@@ -35,5 +35,6 @@ Estudante de **Análise e Desenvolvimento de Sistemas (ADS)** e apaixonado por t
 
 ### 📬 Como entrar em contacto
 
-* **Email:** ricardohenry2008@gmail.com[cite: 4]
-* **Localização:** Recife, Pernambuco[cite: 4]
+* **Email:** ricardohenry2008@gmail.com
+* **Localização:** Recife, Pernambuco
+* **Linkedin:** www.linkedin.com/in/ricardo-henry-1991b0348
