@@ -39,9 +39,9 @@ Estudante de **Análise e Desenvolvimento de Sistemas (ADS)** e apaixonado por t
 * **Linkedin:** www.linkedin.com/in/ricardo-henry-1991b0348
 * **Localização:** Recife, Pernambuco
 
---
+---
 
 ### 🌍 Idiomas
 
 * **Português:** Nativo
-* **Inglês:** Básico/Intermediário (em formação)
+* **Inglês:** Básico/Intermediário (em formação)[cite: 4]
