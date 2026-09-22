@@ -6,30 +6,30 @@ Estudante de **Análise e Desenvolvimento de Sistemas (ADS)** e apaixonado por t
 
 ### 💻 Competências e Tecnologias
 
-* **Linguagens e Frameworks:** Python[cite: 4], Flask[cite: 4], SQL[cite: 4]
-* **Ferramentas e Infraestrutura:** Git / GitHub[cite: 4], APIs[cite: 4], Cloud API[cite: 4], Banco de Dados[cite: 4]
-* **Áreas de Atuação:** Desenvolvimento de Software[cite: 4], Suporte Técnico[cite: 4], Redes de Computadores[cite: 4], Cibersegurança[cite: 4]
+* **Linguagens e Frameworks:** Python, Flask, SQL,
+* **Ferramentas e Infraestrutura:** Git / GitHub, APIs, Cloud API, Banco de Dados,
+* **Áreas de Atuação:** Desenvolvimento de Software, Suporte Técnico, Redes de Computadores, Cibersegurança.
 
 ---
 
 ### 💼 Experiência Profissional
 
-* **HEMOPE, Recife** — Estagiário de Desenvolvimento de Software *(2026)*[cite: 4]
-  * Desenvolvimento de soluções em Python, chatbot e assistente virtual para atendimento[cite: 4].
-  * Criação de sistemas de agendamento, integração com APIs, banco de dados e organização de projetos em módulos[cite: 4].
+* **HEMOPE, Recife** — Estagiário de Desenvolvimento de Software *(2026)*
+  * Desenvolvimento de soluções em Python, chatbot e assistente virtual para atendimento.
+  * Criação de sistemas de agendamento, integração com APIs, banco de dados e organização de projetos em módulos.
 
-* **Secretaria de Administração de Pernambuco, Recife** — Estagiário de TI / Suporte Técnico *(2024 - 2025)*[cite: 4]
-  * Suporte técnico a usuários e sistemas, configuração de computadores e equipamentos[cite: 4].
-  * Manutenção de computadores e impressoras, suporte a redes e Wi-Fi[cite: 4].
-  * Instalação e atualização de softwares, gerenciamento de acessos e resolução de chamados[cite: 4].
+* **Secretaria de Administração de Pernambuco, Recife** — Estagiário de TI / Suporte Técnico *(2024 - 2025)*
+  * Suporte técnico a usuários e sistemas, configuração de computadores e equipamentos.
+  * Manutenção de computadores e impressoras, suporte a redes e Wi-Fi.
+  * Instalação e atualização de softwares, gerenciamento de acessos e resolução de chamados.
 
 ---
 
 ### 🎓 Formação Académica
 
-* **Faculdade ENAC** — Análise e Desenvolvimento de Sistemas (ADS) *(2026 - 2028)*[cite: 4]
-* **Mediotec Senac** — Ensino Médio Técnico em TI *(2023 - 2025)*[cite: 4]
-  * Estudos focados em Pacote Office/Excel, Redes e Infraestrutura, e Banco de Dados[cite: 4].
+* **Faculdade ENAC** — Análise e Desenvolvimento de Sistemas (ADS) *(2026 - 2028)*
+* **Mediotec Senac** — Ensino Médio Técnico em TI *(2023 - 2025)*
+  * Estudos focados em Pacote Office/Excel, Redes e Infraestrutura, e Banco de Dados.
 
 ---
 
