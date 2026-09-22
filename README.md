@@ -27,7 +27,7 @@ Estudante de **Análise e Desenvolvimento de Sistemas (ADS)** e apaixonado por t
 
 ### 🎓 Formação Académica
 
-* **Faculdade ENAC** — Análise e Desenvolvimento de Sistemas (ADS) *(2026 - 2028)*
+* **Faculdade SENAC** — Análise e Desenvolvimento de Sistemas (ADS) *(2026 - 2028)*
 * **Mediotec Senac** — Ensino Médio Técnico em TI *(2023 - 2025)*
   * Estudos focados em Pacote Office/Excel, Redes e Infraestrutura, e Banco de Dados.
 
