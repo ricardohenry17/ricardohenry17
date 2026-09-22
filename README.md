@@ -44,4 +44,4 @@ Estudante de **Análise e Desenvolvimento de Sistemas (ADS)** e apaixonado por t
 ### 🌍 Idiomas
 
 * **Português:** Nativo
-* **Inglês:** Básico/Intermediário (em formação)[cite: 4]
+* **Inglês:** Básico/Intermediário (em formação)
