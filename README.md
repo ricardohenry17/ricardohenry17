@@ -1,4 +1,4 @@
-### Olá, mundo! 👋 Sou o Ricardo Henry
+### Olá, mundo! 👋 Sou o Ricardo Henry Tavares De Morais
 
 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)**[cite: 4] e apaixonado por tecnologia. Atualmente atuo com desenvolvimento de software e suporte em TI[cite: 4], buscando sempre integrar soluções eficientes e evoluir continuamente no ecossistema de tecnologia[cite: 4].
 
